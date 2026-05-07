@@ -1,8 +1,8 @@
-# Privacy Policy for Anti-Matter Block Blast
+# Privacy Policy for KVADRA
 
-**Last Updated:** May 2024
+**Last Updated:** May 7, 2026
 
-At "Ismail Küçükkör" (Istanbul), we value your privacy. This policy explains how we handle your data in "Anti-Matter Block Blast".
+At "Ismail Küçükkör" (Istanbul), we value your privacy. This policy explains how we handle your data in "KVADRA".
 
 ## 1. Data We Do NOT Collect
 We do not have a custom backend. We do not collect or store personal information such as your name, email address, or phone number on our own servers.

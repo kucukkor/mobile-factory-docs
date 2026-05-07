@@ -1,8 +1,8 @@
-# Terms of Use for Anti-Matter Block Blast
+# Terms of Use for KVADRA
 
-**Last Updated:** May 2024
+**Last Updated:** May 7, 2026
 
-By downloading or using "Anti-Matter Block Blast", you agree to these terms.
+By downloading or using "KVADRA", you agree to these terms.
 
 ## 1. License
 We grant you a personal, non-exclusive, non-transferable license to play the game for your own entertainment.
