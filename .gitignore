@@ -1,0 +1,18 @@
+# docs-hosting — GitHub Pages public source (Privacy Policy + Terms hosting)
+# Mostly HTML, no secrets. Just ignore junk.
+
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+*~
+*.swp
+
+# IDE
+.idea/
+.vscode/
+
+# Jekyll/MkDocs build artifacts (in case we add one later)
+_site/
+.jekyll-cache/
+.jekyll-metadata
